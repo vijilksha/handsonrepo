@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  gap: 20px;
+  margin: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: darkblue;
+  font-weight: bold;
+}
+
+div {
+  margin: 20px;
+}
+
+input {
+  margin-left: 10px;
+}
